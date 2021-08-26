@@ -1,4 +1,4 @@
-npm run deploy
+https://chirayumit001.github.io/myfirstreactapp/
 
 
 
